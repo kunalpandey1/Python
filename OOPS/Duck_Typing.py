@@ -1,7 +1,9 @@
 # duck typing = concept where the class of an object is less important than the methods/attributes
 #               class type is not checked if minimum methods/attributes are present
 #               “If it walks like a duck, and it quacks like a duck, then it must be a duck.”
-#means if the methods is same here in my code then even if you pass chicken in person.catch(chicken) then also it will print walk and talk print statement of duck as if you remove one of the methods of duck then it will throw an error but when you pass duck it will not throw any error
+# means if the methods is same here in my code then even if you pass chicken in person.catch(chicken) then also it will print walk and talk print statement of duck as if you remove one of the methods of duck then it will throw an error but when you pass duck it will not throw any error
+
+# When you call person.catch(chicken), the Person class does not check the class type of the duck object; instead, it calls the walk and talk methods on the object passed to it, assuming those methods exist.
 
 class Duck:
 
