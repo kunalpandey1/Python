@@ -81,11 +81,13 @@ def demonstrate_tuple_operations():
         total_cost = price * quantity
         print(f"{name}: {quantity} x ₹{price:.2f} = ₹{total_cost:.2f}")
 
-       
+
 
 # Main program
 def main():
     shopping_list = []  # List of tuples: ((item_name, price), quantity)
+    stock = {}
+    item_index_to_retrieve = 0 
 
     while True:
         print("\nGrocery Shopping Menu:")

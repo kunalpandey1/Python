@@ -1,0 +1,5 @@
+Grocery Name: biscuit
+Price: 10.0
+Quantity: 1
+Result: 10.0
+
