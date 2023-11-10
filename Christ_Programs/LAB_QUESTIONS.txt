@@ -1,0 +1,49 @@
+P1 - Implement Sequential Search
+P2 - Demonstrate use of List 
+[Create a menu-driven program to create
+
+1. Lists, 
+2. Tuples, 
+3. List of Tuples, 
+4. Tuple of Lists, 
+5. Type Conversion(List to Tuple, Tuple to list, string to list/tuple) 
+6. Use at least ten inbuilt operations on List and Tuple each.]
+
+P3 -  Demonstrate use of Dictionaries
+P4 -  Implement String functions [Use built-in string functions (With respect to your domain)
+Usage of Classes and objects are mandatory.]
+P5 -  Implement Selection Sort[You should apply the following:
+1. Any type of Inheritance
+2. A class with constructor]
+
+P6 - Demonstrate usage of basic regular expression
+P7 - Implement Stack[Use Abstract Class/Method 
+
+For Complexity try using Overloading and Overriding(PolyMorph)]
+
+P8 - Demonstrate use of advanced regular expressions for data validation in your GUI application( of your domain) using tkinter [Make use of re and tkinter modules
+Create a GUI Application of your domain -  Use regex to validate the input fields.]
+P9 - Create a calculator program using tkinter[Use Tkinter  to create GUI]
+P10 - 0.  Read and write into a file [You have to perform all the below operations with respect to your domain.
+Use the relevant tkinter widgets and file operations to perform the given task.
+- Create a GUI window - which takes input from the user
+- Do an operation(small computation with respect to your domain)
+- Display the result to the user(use relevant widget to display).
+Save the input and result in a text file and let the user know that the data is saved(use message box to display the confirmation message).]
+
+P11 - Demonstrate Exceptions in Python [Use all Exception Handling Concepts(Raise,Try, Else, Finally) in your TKinter Version of your domain application.
+Test at least 5 (different )Errors]
+
+P12 - Create Comma Separate Files(CSV),Load CSV files into internal Data Structure[- Create a CSV file for you domain and Load it
+- Perform the file operations
+- Convert the CSV file into Internal data structure such as List, Tuple, etc.
+- Perform necessary operations or calculations related to your domain.]
+
+P13 - Write script to work like a SQL SELECT statement for internal Data Structure made in earlier exercise[Use Sqlite3
+Create Minimum 3 tables.
+Insert 10 records
+Perform Create - Retrieve - Update - Delete operations of Database in your application.]
+P14 - Write script to work like a SQL Inner Join for an internal Data Structure made in earlier exercise [Create a minimum of two tables (populate at least 5 records in each table) and apply an inner join.
+
+Explain how the inner join works in your scenario.
+Use sqlite3 package.]
