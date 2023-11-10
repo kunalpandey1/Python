@@ -6,4 +6,4 @@ cursor = connection.cursor()
 
 command = "CREATE TABLE IF NOT EXISTS users(name TEXT , password TEXT , age INTEGER)"
 
-cursor.execute(command)
+cursor.execute(command)  

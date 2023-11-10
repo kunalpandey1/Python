@@ -3,3 +3,13 @@ Price: 10.0
 Quantity: 1
 Result: 10.0
 
+Grocery Name: milk
+Price: 20.0
+Quantity: 1
+Result: 20.0
+
+Grocery Name: chocolate
+Price: 10.0
+Quantity: 1
+Result: 10.0
+

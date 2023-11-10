@@ -9,16 +9,6 @@ cursor.execute("INSERT INTO users VALUES ('Rishab','12345678','45')")
 cursor.execute("INSERT INTO users VALUES ('Joshua','12345678','99')")
 
 
-
-
-
-
-cursor.execute("SELECT * FROM users")
-products = cursor.fetchall()
-
-for product in products:
-    print(product)
-
 connection.commit()
 
 connection.close()
